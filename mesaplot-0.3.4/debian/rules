@@ -6,7 +6,8 @@
 export PYBUILD_NAME=mesaplot
 
 %:
-	dh $@  --with python2,python3 --buildsystem=pybuild
+#	dh $@  --with python2,python3 --buildsystem=pybuild
+	dh $@
 
 
 # If you need to rebuild the Sphinx documentation
