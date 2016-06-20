@@ -1,0 +1,8 @@
+config.txt /usr/lib/python2.7/dist-packages/mesaplot
+file_manager.py /usr/lib/python2.7/dist-packages/mesaplot
+mesaoutput1.py /usr/lib/python2.7/dist-packages/mesaplot
+mesaplot.py /usr/lib/python2.7/dist-packages/mesaplot
+plot_manager.py /usr/lib/python2.7/dist-packages/mesaplot
+
+mesaplot /usr/bin
+mesaplot.conf /etc
