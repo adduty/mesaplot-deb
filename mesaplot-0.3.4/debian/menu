@@ -1,2 +1,2 @@
-?package(mesaplot):needs="X11|text|vc|wm" section="Applications/Data Management"\
+?package(mesaplot):needs="X11" section="Applications/Science/Astronomy"\
   title="mesaplot" command="/usr/bin/mesaplot"
