@@ -1,0 +1,12 @@
+Change module references to lowercase.
+--- a/mesaoutput1.py
++++ b/mesaoutput1.py
+@@ -3,7 +3,7 @@
+ #import matplotlib.pyplot as plt
+ import os
+ import default_settings as ds
+-import File_Manager as FM
++import file_manager as FM
+ '''
+ This module provides tables with data from the MESA run output.
+ The output is found in the folder specified by --> aPath
